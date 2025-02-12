@@ -1,5 +1,6 @@
 ---
 title: Best practices for repositories
+
 shortTitle: Best practices
 intro: Learn how to use repositories most effectively.
 versions:
